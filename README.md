@@ -1,5 +1,5 @@
 # WorldWarWhat
-3D Mobile Application
+Mobile VR/AR Application
 
 A First Person Shooter mobile app, developed in Unity 3D, that allows interchangeable play styles using virtual reality, augmented reality or just real-world rotation.
 <p></p>
