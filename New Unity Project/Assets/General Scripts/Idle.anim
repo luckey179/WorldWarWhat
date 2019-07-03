@@ -1,0 +1,2647 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Idle
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 270, z: 90}
+        inSlope: {x: 0.2, y: 0.079992674, z: 0.03999939}
+        outSlope: {x: 0.2, y: 0.079992674, z: 0.03999939}
+        tangentMode: 0
+      - time: 2.5
+        value: {x: 0.5, y: 270.19998, z: 90.1}
+        inSlope: {x: -0.1, y: -0.04000244, z: -0.019999694}
+        outSlope: {x: -0.1, y: -0.04000244, z: -0.019999694}
+        tangentMode: 0
+      - time: 5
+        value: {x: -0.5, y: 269.8, z: 89.9}
+        inSlope: {x: -0.11666667, y: -0.046663407, z: -0.023332976}
+        outSlope: {x: -0.11666667, y: -0.046663407, z: -0.023332976}
+        tangentMode: 0
+      - time: 8
+        value: {x: 0, y: 270, z: 90}
+        inSlope: {x: 0.16666667, y: 0.06667074, z: 0.033332825}
+        outSlope: {x: 0.16666667, y: 0.06667074, z: 0.033332825}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: PLASMA RIFLE
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 90, y: 0, z: 0}
+        inSlope: {x: 0, y: 0.2, z: 0}
+        outSlope: {x: 0, y: 0.2, z: 0}
+        tangentMode: 0
+      - time: 2.5
+        value: {x: 90, y: 0.5, z: 0}
+        inSlope: {x: 0, y: -0.1, z: 0}
+        outSlope: {x: 0, y: -0.1, z: 0}
+        tangentMode: 0
+      - time: 5
+        value: {x: 90, y: -0.5, z: 0}
+        inSlope: {x: 0, y: -0.11666667, z: 0}
+        outSlope: {x: 0, y: -0.11666667, z: 0}
+        tangentMode: 0
+      - time: 8
+        value: {x: 90, y: 0, z: 0}
+        inSlope: {x: 0, y: 0.16666667, z: 0}
+        outSlope: {x: 0, y: 0.16666667, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: PLASMA SNIPER
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 270, y: -90, z: 0}
+        inSlope: {x: 0.153833, y: 35.999798, z: -35.999798}
+        outSlope: {x: 0.153833, y: 35.999798, z: -35.999798}
+        tangentMode: 0
+      - time: 2.5
+        value: {x: 270.38458, y: -0.00049999997, z: -89.9995}
+        inSlope: {x: 0, y: 0.18422127, z: 0}
+        outSlope: {x: 0, y: 0.18422127, z: 0}
+        tangentMode: 0
+      - time: 5
+        value: {x: 270, y: -89.078896, z: 0}
+        inSlope: {x: 0, y: 0.1, z: 0}
+        outSlope: {x: 2.062378, y: -180.30699, z: 180}
+        tangentMode: 0
+      - time: 5.5
+        value: {x: 271.0312, y: -179.23239, z: 90}
+        inSlope: {x: 0.27670324, y: -144.63948, z: 144.32938}
+        outSlope: {x: 0.27670324, y: -144.63948, z: 144.32938}
+        tangentMode: 0
+      - time: 5.8333335
+        value: {x: 270.5282, y: -215.5564, z: 126.2196}
+        inSlope: {x: -0.87637764, y: -25.511425, z: 25.201767}
+        outSlope: {x: -0.87637764, y: -25.511425, z: 25.201767}
+        tangentMode: 0
+      - time: 8
+        value: {x: 270, y: -90, z: 0}
+        inSlope: {x: -0.24378382, y: 57.949112, z: -58.255203}
+        outSlope: {x: -0.24378382, y: 57.949112, z: -58.255203}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: PLASMA PISTOL
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 90, y: 0, z: 0}
+        inSlope: {x: 0, y: 0.2, z: 0}
+        outSlope: {x: 0, y: 0.2, z: 0}
+        tangentMode: 0
+      - time: 2.5
+        value: {x: 90, y: 0.5, z: 0}
+        inSlope: {x: 0.2, y: -0.09791999, z: 0}
+        outSlope: {x: 0.2, y: -0.09791999, z: 0}
+        tangentMode: 0
+      - time: 3.75
+        value: {x: 90.5, y: 0.0052, z: 0}
+        inSlope: {x: -0.17500009, y: -0.43507004, z: 0}
+        outSlope: {x: -0.17500009, y: -0.43507004, z: 0}
+        tangentMode: 0
+      - time: 4.4166665
+        value: {x: 90, y: -0.311, z: 0}
+        inSlope: {x: -0.3750001, y: -0.39915, z: 0}
+        outSlope: {x: -0.3750001, y: -0.39915, z: 0}
+        tangentMode: 0
+      - time: 5
+        value: {x: 90, y: -0.5, z: 0}
+        inSlope: {x: 0, y: -0.078666635, z: 0}
+        outSlope: {x: 0, y: -0.078666635, z: 0}
+        tangentMode: 0
+      - time: 8
+        value: {x: 90, y: 0, z: 0}
+        inSlope: {x: 0, y: 0.16666667, z: 0}
+        outSlope: {x: 0, y: 0.16666667, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: PLASMA BEAM
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 270, y: -90, z: 0}
+        inSlope: {x: 0, y: 0.08, z: 0}
+        outSlope: {x: 0.19171143, y: 35.80004, z: -36}
+        tangentMode: 0
+      - time: 2.5
+        value: {x: 270.47928, y: -0.49989998, z: -90}
+        inSlope: {x: 0.098120116, y: -17.90004, z: 18.00008}
+        outSlope: {x: 0.098120116, y: -17.90004, z: 18.00008}
+        tangentMode: 0
+      - time: 5
+        value: {x: 270.4906, y: -179.5002, z: 90.0004}
+        inSlope: {x: -0.07950236, y: -20.883362, z: 21.000015}
+        outSlope: {x: -0.07950236, y: -20.883362, z: 21.000015}
+        tangentMode: 0
+      - time: 8
+        value: {x: 270, y: -90, z: 0}
+        inSlope: {x: -0.16353352, y: 29.833399, z: -30.000132}
+        outSlope: {x: -0.16353352, y: 29.833399, z: -30.000132}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: PLASMA BLASTER
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 395.2796, y: -28.3842, z: 81.2753}
+        inSlope: {x: 4.193799, y: 5.5137997, z: 3.6495209}
+        outSlope: {x: 4.193799, y: 5.5137997, z: 3.6495209}
+        tangentMode: 0
+      - time: 2.5
+        value: {x: 405.7641, y: -14.5997, z: 90.3991}
+        inSlope: {x: -0.53186035, y: -0.6216998, z: -1.1123002}
+        outSlope: {x: -0.53186035, y: -0.6216998, z: -1.1123002}
+        tangentMode: 0
+      - time: 5
+        value: {x: 392.6203, y: -31.492699, z: 75.7138}
+        inSlope: {x: 4.0798244, y: 5.691483, z: 12.6534605}
+        outSlope: {x: 4.0798244, y: 5.691483, z: 12.6534605}
+        tangentMode: 0
+      - time: 5.4166665
+        value: {x: 398.2108, y: -23.9343, z: 88.705894}
+        inSlope: {x: 0.5427685, y: 0.5337696, z: 1.0128193}
+        outSlope: {x: 0.5427685, y: 0.5337696, z: 1.0128193}
+        tangentMode: 0
+      - time: 5.8333335
+        value: {x: 393.0726, y: -31.0479, z: 76.5578}
+        inSlope: {x: -5.656508, y: -7.9216127, z: -13.489048}
+        outSlope: {x: -5.656508, y: -7.9216127, z: -13.489048}
+        tangentMode: 0
+      - time: 8
+        value: {x: 395.2796, y: -28.3842, z: 81.2753}
+        inSlope: {x: 1.0186158, y: 1.2294002, z: 2.1773074}
+        outSlope: {x: 1.0186158, y: 1.2294002, z: 2.1773074}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: PLASMA BLADE
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -90, z: 90}
+        inSlope: {x: 0, y: 0.4, z: 0.4}
+        outSlope: {x: 0, y: 0.4, z: 0.4}
+        tangentMode: 0
+      - time: 2.5
+        value: {x: 0, y: -89, z: 91}
+        inSlope: {x: 0, y: -0.2, z: -0.2}
+        outSlope: {x: 0, y: -0.2, z: -0.2}
+        tangentMode: 0
+      - time: 5
+        value: {x: 0, y: -91, z: 89}
+        inSlope: {x: 0, y: -0.23333333, z: -0.23333333}
+        outSlope: {x: 0, y: -0.23333333, z: -0.23333333}
+        tangentMode: 0
+      - time: 8
+        value: {x: 0, y: -90, z: 90}
+        inSlope: {x: 0, y: 0.33333334, z: 0.33333334}
+        outSlope: {x: 0, y: 0.33333334, z: 0.33333334}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: PLASMA THROW
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0.16503999, y: 0.05, z: 0}
+        outSlope: {x: 0.16503999, y: 0.45, z: -0}
+        tangentMode: 0
+      - time: 1.25
+        value: {x: 0.20629999, y: 0.5625, z: 0}
+        inSlope: {x: 0.11999999, y: 0, z: 0}
+        outSlope: {x: 0.07495999, y: -0.05, z: -0}
+        tangentMode: 0
+      - time: 2.5
+        value: {x: 0.29999998, y: 0.5, z: 0}
+        inSlope: {x: -0.08251999, y: -0.22500001, z: 0}
+        outSlope: {x: -0.08251999, y: -0.22500001, z: 0}
+        tangentMode: 0
+      - time: 5
+        value: {x: -0.29999998, y: -0.5, z: 0}
+        inSlope: {x: -0.06999999, y: -0.11666667, z: 0}
+        outSlope: {x: -0.06999999, y: -0.11666667, z: 0}
+        tangentMode: 0
+      - time: 8
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0.099999994, y: 0.16666667, z: 0}
+        outSlope: {x: 0.099999994, y: 0.16666667, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: PLASMA ION
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0.0125, z: 0}
+        outSlope: {x: 0, y: 0.0125, z: 0}
+        tangentMode: 0
+      - time: 4
+        value: {x: 0, y: 0.05, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 8
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: -0.0125, z: 0}
+        outSlope: {x: 0, y: -0.0125, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0.29, y: -0.119, z: 0.719}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 8
+        value: {x: 0.29, y: -0.119, z: 0.719}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: PLASMA RIFLE
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0.29, y: -0.119, z: 0.719}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 8
+        value: {x: 0.29, y: -0.119, z: 0.719}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: PLASMA SNIPER
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0.3, y: -0.16, z: 1.1}
+        inSlope: {x: -0.000005030632, y: 0.000000059604645, z: 0.0000024795531}
+        outSlope: {x: -0.000005030632, y: 0.000000059604645, z: 0.0000024795531}
+        tangentMode: 0
+      - time: 2.5
+        value: {x: 0.29998744, y: -0.15999985, z: 1.1000062}
+        inSlope: {x: -0.000002515316, y: 0.00000018179416, z: 0.0000012397766}
+        outSlope: {x: -0.000002515316, y: 0.00000018179416, z: 0.0000012397766}
+        tangentMode: 0
+      - time: 5
+        value: {x: 0.29998744, y: -0.15999909, z: 1.1000062}
+        inSlope: {x: 0, y: -0.00000060796737, z: 0}
+        outSlope: {x: 0, y: -0.00000060796737, z: 0}
+        tangentMode: 0
+      - time: 5.5
+        value: {x: 0.29998744, y: -0.15999985, z: 1.1000062}
+        inSlope: {x: 0, y: -0.0000017434354, z: 0}
+        outSlope: {x: 0, y: -0.0000017434354, z: 0}
+        tangentMode: 0
+      - time: 5.8333335
+        value: {x: 0.29998744, y: -0.1600005, z: 1.1000062}
+        inSlope: {x: 0.0000029022879, y: -0.0000008665594, z: -0.0000014305116}
+        outSlope: {x: 0.0000029022879, y: -0.0000008665594, z: -0.0000014305116}
+        tangentMode: 0
+      - time: 8
+        value: {x: 0.3, y: -0.16, z: 1.1}
+        inSlope: {x: 0.0000058045757, y: 0.00000023383362, z: -0.0000028610232}
+        outSlope: {x: 0.0000058045757, y: 0.00000023383362, z: -0.0000028610232}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: PLASMA PISTOL
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0.29, y: -0.119, z: 0.65}
+        inSlope: {x: 0, y: 0.0024000008, z: 0}
+        outSlope: {x: Infinity, y: Infinity, z: Infinity}
+        tangentMode: 0
+      - time: 3.4166667
+        value: {x: 0.29, y: -0.119, z: 0.65}
+        inSlope: {x: 0, y: 0.0067500016, z: 0}
+        outSlope: {x: -0, y: 0.0060000136, z: -0}
+        tangentMode: 0
+      - time: 3.75
+        value: {x: 0.29, y: -0.117, z: 0.65}
+        inSlope: {x: 0, y: 0.0000000020954758, z: 0}
+        outSlope: {x: 0, y: 0.0000000020954758, z: 0}
+        tangentMode: 0
+      - time: 4.0833335
+        value: {x: 0.29, y: -0.119, z: 0.65}
+        inSlope: {x: 0, y: -0.0030000047, z: 0}
+        outSlope: {x: 0, y: -0.0030000047, z: 0}
+        tangentMode: 0
+      - time: 8
+        value: {x: 0.29, y: -0.119, z: 0.65}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: PLASMA BEAM
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0.3, y: -0.16, z: 1}
+        inSlope: {x: 0, y: 0, z: 0.008625001}
+        outSlope: {x: -0.000005018711, y: 0.000000059604645, z: 0.000000047683717}
+        tangentMode: 0
+      - time: 2.5
+        value: {x: 0.29998747, y: -0.15999985, z: 1.0000001}
+        inSlope: {x: 0, y: 0, z: 0.008625001}
+        outSlope: {x: -0, y: 0.00000030398368, z: -0}
+        tangentMode: 0
+      - time: 5
+        value: {x: 0.29998747, y: -0.15999909, z: 1.0000001}
+        inSlope: {x: 0, y: 0, z: 0.008625001}
+        outSlope: {x: 0.000004182259, y: -0.0000003029903, z: -0.00000003973643}
+        tangentMode: 0
+      - time: 8
+        value: {x: 0.3, y: -0.16, z: 1}
+        inSlope: {x: 0, y: 0, z: 0.008625001}
+        outSlope: {x: -0, y: 0.001999998, z: -0.04000001}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: PLASMA BLASTER
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0.4999997, y: -0.1060009, z: 0.95498675}
+        inSlope: {x: 0, y: 0.0027999878, z: 0}
+        outSlope: {x: 0, y: 0.0027999878, z: 0}
+        tangentMode: 0
+      - time: 2.5
+        value: {x: 0.4999997, y: -0.09900093, z: 0.95498675}
+        inSlope: {x: 0, y: 0.00020004215, z: 0}
+        outSlope: {x: 0, y: 0.00020004215, z: 0}
+        tangentMode: 0
+      - time: 5
+        value: {x: 0.4999997, y: -0.10500069, z: 0.95498675}
+        inSlope: {x: 0, y: -0.0017508777, z: 0}
+        outSlope: {x: 0, y: -0.0017508777, z: 0}
+        tangentMode: 0
+      - time: 5.4166665
+        value: {x: 0.4999997, y: -0.105459794, z: 0.95498675}
+        inSlope: {x: 0, y: -0.00081193156, z: 0}
+        outSlope: {x: 0, y: -0.00081193156, z: 0}
+        tangentMode: 0
+      - time: 5.8333335
+        value: {x: 0.4999997, y: -0.1056773, z: 0.95498675}
+        inSlope: {x: 0, y: -0.00033568274, z: 0}
+        outSlope: {x: 0, y: -0.00033568274, z: 0}
+        tangentMode: 0
+      - time: 8
+        value: {x: 0.4999997, y: -0.1060009, z: 0.95498675}
+        inSlope: {x: 0, y: -0.00014935435, z: 0}
+        outSlope: {x: 0, y: -0.00014935435, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: PLASMA BLADE
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0.29, y: -0.119, z: 0.719}
+        inSlope: {x: 0.004000008, y: 0, z: 0}
+        outSlope: {x: 0.004000008, y: 0, z: 0}
+        tangentMode: 0
+      - time: 2.5
+        value: {x: 0.3, y: -0.119, z: 0.719}
+        inSlope: {x: -0.001999998, y: 0.00080000015, z: 0}
+        outSlope: {x: -0.001999998, y: 0.00080000015, z: 0}
+        tangentMode: 0
+      - time: 5
+        value: {x: 0.28, y: -0.115, z: 0.719}
+        inSlope: {x: -0.002333337, y: 0.00013333338, z: 0}
+        outSlope: {x: -0.002333337, y: 0.00013333338, z: 0}
+        tangentMode: 0
+      - time: 8
+        value: {x: 0.29, y: -0.119, z: 0.719}
+        inSlope: {x: 0.0033333302, y: -0.0013333336, z: 0}
+        outSlope: {x: 0.0033333302, y: -0.0013333336, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: PLASMA GRENADE
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0.2900083, y: -0.11899948, z: 0.71899426}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 2.5
+        value: {x: 0.2900083, y: -0.11899948, z: 0.71899426}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 8
+        value: {x: 0.2900083, y: -0.11899948, z: 0.71899426}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: PLASMA THROW
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0.29, y: -0.145, z: 0.48}
+        inSlope: {x: 0, y: 0, z: 0.0062500015}
+        outSlope: {x: -0, y: -0.0016000032, z: -0}
+        tangentMode: 0
+      - time: 1.25
+        value: {x: 0.29, y: -0.147, z: 0.48}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 2.5
+        value: {x: 0.29, y: -0.143, z: 0.48}
+        inSlope: {x: 0, y: 0.0013999998, z: 0}
+        outSlope: {x: 0, y: 0.0013999998, z: 0}
+        tangentMode: 0
+      - time: 5
+        value: {x: 0.29, y: -0.144, z: 0.48}
+        inSlope: {x: 0, y: -0.00036666443, z: 0}
+        outSlope: {x: 0, y: -0.00036666443, z: 0}
+        tangentMode: 0
+      - time: 8
+        value: {x: 0.29, y: -0.145, z: 0.48}
+        inSlope: {x: 0, y: -0.000333334, z: 0}
+        outSlope: {x: 0, y: -0.000333334, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: PLASMA ION
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 12
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 0
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2429429191
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 61150727
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3023917492
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3860438756
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 135258471
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2057003283
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2092000729
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 2620866999
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 2429429191
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 61150727
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 3023917492
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 3860438756
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 2297880123
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 2057003283
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 2092000729
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2620866999
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2297880123
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 8
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 8
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0.0125
+        outSlope: 0.0125
+        tangentMode: 10
+      - time: 4
+        value: 0.05
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 8
+        value: 0
+        inSlope: -0.0125
+        outSlope: -0.0125
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 8
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.29
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 8
+        value: 0.29
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: PLASMA RIFLE
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.119
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 8
+        value: -0.119
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: PLASMA RIFLE
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.719
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 8
+        value: 0.719
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: PLASMA RIFLE
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0.2
+        outSlope: 0.2
+        tangentMode: 10
+      - time: 2.5
+        value: 0.5
+        inSlope: -0.1
+        outSlope: -0.1
+        tangentMode: 10
+      - time: 5
+        value: -0.5
+        inSlope: -0.11666667
+        outSlope: -0.11666667
+        tangentMode: 10
+      - time: 8
+        value: 0
+        inSlope: 0.16666667
+        outSlope: 0.16666667
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: PLASMA RIFLE
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 270
+        inSlope: 0.079992674
+        outSlope: 0.079992674
+        tangentMode: 10
+      - time: 2.5
+        value: 270.19998
+        inSlope: -0.04000244
+        outSlope: -0.04000244
+        tangentMode: 10
+      - time: 5
+        value: 269.8
+        inSlope: -0.046663407
+        outSlope: -0.046663407
+        tangentMode: 10
+      - time: 8
+        value: 270
+        inSlope: 0.06667074
+        outSlope: 0.06667074
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: PLASMA RIFLE
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 90
+        inSlope: 0.03999939
+        outSlope: 0.03999939
+        tangentMode: 10
+      - time: 2.5
+        value: 90.1
+        inSlope: -0.019999694
+        outSlope: -0.019999694
+        tangentMode: 10
+      - time: 5
+        value: 89.9
+        inSlope: -0.023332976
+        outSlope: -0.023332976
+        tangentMode: 10
+      - time: 8
+        value: 90
+        inSlope: 0.033332825
+        outSlope: 0.033332825
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: PLASMA RIFLE
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.29
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 8
+        value: 0.29
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: PLASMA SNIPER
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.119
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 8
+        value: -0.119
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: PLASMA SNIPER
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.719
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 8
+        value: 0.719
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: PLASMA SNIPER
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.3
+        inSlope: -0.000005030632
+        outSlope: -0.000005030632
+        tangentMode: 10
+      - time: 2.5
+        value: 0.29998744
+        inSlope: -0.000002515316
+        outSlope: -0.000002515316
+        tangentMode: 10
+      - time: 5
+        value: 0.29998744
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 5.5
+        value: 0.29998744
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 5.8333335
+        value: 0.29998744
+        inSlope: 0.0000029022879
+        outSlope: 0.0000029022879
+        tangentMode: 10
+      - time: 8
+        value: 0.3
+        inSlope: 0.0000058045757
+        outSlope: 0.0000058045757
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: PLASMA PISTOL
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.16
+        inSlope: 0.000000059604645
+        outSlope: 0.000000059604645
+        tangentMode: 10
+      - time: 2.5
+        value: -0.15999985
+        inSlope: 0.00000018179416
+        outSlope: 0.00000018179416
+        tangentMode: 10
+      - time: 5
+        value: -0.15999909
+        inSlope: -0.00000060796737
+        outSlope: -0.00000060796737
+        tangentMode: 10
+      - time: 5.5
+        value: -0.15999985
+        inSlope: -0.0000017434354
+        outSlope: -0.0000017434354
+        tangentMode: 10
+      - time: 5.8333335
+        value: -0.1600005
+        inSlope: -0.0000008665594
+        outSlope: -0.0000008665594
+        tangentMode: 10
+      - time: 8
+        value: -0.16
+        inSlope: 0.00000023383362
+        outSlope: 0.00000023383362
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: PLASMA PISTOL
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1.1
+        inSlope: 0.0000024795531
+        outSlope: 0.0000024795531
+        tangentMode: 10
+      - time: 2.5
+        value: 1.1000062
+        inSlope: 0.0000012397766
+        outSlope: 0.0000012397766
+        tangentMode: 10
+      - time: 5
+        value: 1.1000062
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 5.5
+        value: 1.1000062
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 5.8333335
+        value: 1.1000062
+        inSlope: -0.0000014305116
+        outSlope: -0.0000014305116
+        tangentMode: 10
+      - time: 8
+        value: 1.1
+        inSlope: -0.0000028610232
+        outSlope: -0.0000028610232
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: PLASMA PISTOL
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.29
+        inSlope: 0
+        outSlope: Infinity
+        tangentMode: 25
+      - time: 3.4166667
+        value: 0.29
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 23
+      - time: 3.75
+        value: 0.29
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4.0833335
+        value: 0.29
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 8
+        value: 0.29
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: PLASMA BEAM
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.119
+        inSlope: 0.0024000008
+        outSlope: Infinity
+        tangentMode: 25
+      - time: 3.4166667
+        value: -0.119
+        inSlope: 0.0067500016
+        outSlope: 0.0060000136
+        tangentMode: 23
+      - time: 3.75
+        value: -0.117
+        inSlope: 0.0000000020954758
+        outSlope: 0.0000000020954758
+        tangentMode: 10
+      - time: 4.0833335
+        value: -0.119
+        inSlope: -0.0030000047
+        outSlope: -0.0030000047
+        tangentMode: 10
+      - time: 8
+        value: -0.119
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: PLASMA BEAM
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.65
+        inSlope: 0
+        outSlope: Infinity
+        tangentMode: 25
+      - time: 3.4166667
+        value: 0.65
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 23
+      - time: 3.75
+        value: 0.65
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4.0833335
+        value: 0.65
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 8
+        value: 0.65
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: PLASMA BEAM
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 90
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5
+        value: 90
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 5
+        value: 90
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 8
+        value: 90
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: PLASMA SNIPER
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0.2
+        outSlope: 0.2
+        tangentMode: 10
+      - time: 2.5
+        value: 0.5
+        inSlope: -0.1
+        outSlope: -0.1
+        tangentMode: 10
+      - time: 5
+        value: -0.5
+        inSlope: -0.11666667
+        outSlope: -0.11666667
+        tangentMode: 10
+      - time: 8
+        value: 0
+        inSlope: 0.16666667
+        outSlope: 0.16666667
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: PLASMA SNIPER
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 8
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: PLASMA SNIPER
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 270
+        inSlope: 0.153833
+        outSlope: 0.153833
+        tangentMode: 10
+      - time: 2.5
+        value: 270.38458
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 5
+        value: 270
+        inSlope: 0
+        outSlope: 2.062378
+        tangentMode: 17
+      - time: 5.5
+        value: 271.0312
+        inSlope: 0.27670324
+        outSlope: 0.27670324
+        tangentMode: 13
+      - time: 5.8333335
+        value: 270.5282
+        inSlope: -0.87637764
+        outSlope: -0.87637764
+        tangentMode: 11
+      - time: 8
+        value: 270
+        inSlope: -0.24378382
+        outSlope: -0.24378382
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: PLASMA PISTOL
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -90
+        inSlope: 35.999798
+        outSlope: 35.999798
+        tangentMode: 10
+      - time: 2.5
+        value: -0.00049999997
+        inSlope: 0.18422127
+        outSlope: 0.18422127
+        tangentMode: 10
+      - time: 5
+        value: -89.078896
+        inSlope: 0.1
+        outSlope: -180.30699
+        tangentMode: 17
+      - time: 5.5
+        value: -179.23239
+        inSlope: -144.63948
+        outSlope: -144.63948
+        tangentMode: 13
+      - time: 5.8333335
+        value: -215.5564
+        inSlope: -25.511425
+        outSlope: -25.511425
+        tangentMode: 11
+      - time: 8
+        value: -90
+        inSlope: 57.949112
+        outSlope: 57.949112
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: PLASMA PISTOL
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: -35.999798
+        outSlope: -35.999798
+        tangentMode: 10
+      - time: 2.5
+        value: -89.9995
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 5
+        value: 0
+        inSlope: 0
+        outSlope: 180
+        tangentMode: 17
+      - time: 5.5
+        value: 90
+        inSlope: 144.32938
+        outSlope: 144.32938
+        tangentMode: 13
+      - time: 5.8333335
+        value: 126.2196
+        inSlope: 25.201767
+        outSlope: 25.201767
+        tangentMode: 11
+      - time: 8
+        value: 0
+        inSlope: -58.255203
+        outSlope: -58.255203
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: PLASMA PISTOL
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 90
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5
+        value: 90
+        inSlope: 0.2
+        outSlope: 0.2
+        tangentMode: 10
+      - time: 3.75
+        value: 90.5
+        inSlope: -0.17500009
+        outSlope: -0.17500009
+        tangentMode: 10
+      - time: 4.4166665
+        value: 90
+        inSlope: -0.3750001
+        outSlope: -0.3750001
+        tangentMode: 10
+      - time: 5
+        value: 90
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 8
+        value: 90
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: PLASMA BEAM
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0.2
+        outSlope: 0.2
+        tangentMode: 10
+      - time: 2.5
+        value: 0.5
+        inSlope: -0.09791999
+        outSlope: -0.09791999
+        tangentMode: 10
+      - time: 3.75
+        value: 0.0052
+        inSlope: -0.43507004
+        outSlope: -0.43507004
+        tangentMode: 10
+      - time: 4.4166665
+        value: -0.311
+        inSlope: -0.39915
+        outSlope: -0.39915
+        tangentMode: 10
+      - time: 5
+        value: -0.5
+        inSlope: -0.078666635
+        outSlope: -0.078666635
+        tangentMode: 10
+      - time: 8
+        value: 0
+        inSlope: 0.16666667
+        outSlope: 0.16666667
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: PLASMA BEAM
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.75
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 4.4166665
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 8
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: PLASMA BEAM
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.3
+        inSlope: 0
+        outSlope: -0.000005018711
+        tangentMode: 17
+      - time: 2.5
+        value: 0.29998747
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 17
+      - time: 5
+        value: 0.29998747
+        inSlope: 0
+        outSlope: 0.000004182259
+        tangentMode: 17
+      - time: 8
+        value: 0.3
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 17
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: PLASMA BLASTER
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.16
+        inSlope: 0
+        outSlope: 0.000000059604645
+        tangentMode: 17
+      - time: 2.5
+        value: -0.15999985
+        inSlope: 0
+        outSlope: 0.00000030398368
+        tangentMode: 17
+      - time: 5
+        value: -0.15999909
+        inSlope: 0
+        outSlope: -0.0000003029903
+        tangentMode: 17
+      - time: 8
+        value: -0.16
+        inSlope: 0
+        outSlope: 0.001999998
+        tangentMode: 17
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: PLASMA BLASTER
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0.008625001
+        outSlope: 0.000000047683717
+        tangentMode: 17
+      - time: 2.5
+        value: 1.0000001
+        inSlope: 0.008625001
+        outSlope: -0
+        tangentMode: 17
+      - time: 5
+        value: 1.0000001
+        inSlope: 0.008625001
+        outSlope: -0.00000003973643
+        tangentMode: 17
+      - time: 8
+        value: 1
+        inSlope: 0.008625001
+        outSlope: -0.04000001
+        tangentMode: 17
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: PLASMA BLASTER
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 270
+        inSlope: 0
+        outSlope: 0.19171143
+        tangentMode: 17
+      - time: 2.5
+        value: 270.47928
+        inSlope: 0.098120116
+        outSlope: 0.098120116
+        tangentMode: 10
+      - time: 5
+        value: 270.4906
+        inSlope: -0.07950236
+        outSlope: -0.07950236
+        tangentMode: 10
+      - time: 8
+        value: 270
+        inSlope: -0.16353352
+        outSlope: -0.16353352
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: PLASMA BLASTER
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -90
+        inSlope: 0.08
+        outSlope: 35.80004
+        tangentMode: 17
+      - time: 2.5
+        value: -0.49989998
+        inSlope: -17.90004
+        outSlope: -17.90004
+        tangentMode: 10
+      - time: 5
+        value: -179.5002
+        inSlope: -20.883362
+        outSlope: -20.883362
+        tangentMode: 10
+      - time: 8
+        value: -90
+        inSlope: 29.833399
+        outSlope: 29.833399
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: PLASMA BLASTER
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: -36
+        tangentMode: 17
+      - time: 2.5
+        value: -90
+        inSlope: 18.00008
+        outSlope: 18.00008
+        tangentMode: 10
+      - time: 5
+        value: 90.0004
+        inSlope: 21.000015
+        outSlope: 21.000015
+        tangentMode: 10
+      - time: 8
+        value: 0
+        inSlope: -30.000132
+        outSlope: -30.000132
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: PLASMA BLASTER
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.4999997
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5
+        value: 0.4999997
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 5
+        value: 0.4999997
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 5.4166665
+        value: 0.4999997
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 5.8333335
+        value: 0.4999997
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 8
+        value: 0.4999997
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: PLASMA BLADE
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.1060009
+        inSlope: 0.0027999878
+        outSlope: 0.0027999878
+        tangentMode: 10
+      - time: 2.5
+        value: -0.09900093
+        inSlope: 0.00020004215
+        outSlope: 0.00020004215
+        tangentMode: 10
+      - time: 5
+        value: -0.10500069
+        inSlope: -0.0017508777
+        outSlope: -0.0017508777
+        tangentMode: 10
+      - time: 5.4166665
+        value: -0.105459794
+        inSlope: -0.00081193156
+        outSlope: -0.00081193156
+        tangentMode: 10
+      - time: 5.8333335
+        value: -0.1056773
+        inSlope: -0.00033568274
+        outSlope: -0.00033568274
+        tangentMode: 10
+      - time: 8
+        value: -0.1060009
+        inSlope: -0.00014935435
+        outSlope: -0.00014935435
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: PLASMA BLADE
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.95498675
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5
+        value: 0.95498675
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 5
+        value: 0.95498675
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 5.4166665
+        value: 0.95498675
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 5.8333335
+        value: 0.95498675
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 8
+        value: 0.95498675
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: PLASMA BLADE
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 395.2796
+        inSlope: 4.193799
+        outSlope: 4.193799
+        tangentMode: 10
+      - time: 2.5
+        value: 405.7641
+        inSlope: -0.53186035
+        outSlope: -0.53186035
+        tangentMode: 10
+      - time: 5
+        value: 392.6203
+        inSlope: 4.0798244
+        outSlope: 4.0798244
+        tangentMode: 10
+      - time: 5.4166665
+        value: 398.2108
+        inSlope: 0.5427685
+        outSlope: 0.5427685
+        tangentMode: 10
+      - time: 5.8333335
+        value: 393.0726
+        inSlope: -5.656508
+        outSlope: -5.656508
+        tangentMode: 10
+      - time: 8
+        value: 395.2796
+        inSlope: 1.0186158
+        outSlope: 1.0186158
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: PLASMA BLADE
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -28.3842
+        inSlope: 5.5137997
+        outSlope: 5.5137997
+        tangentMode: 10
+      - time: 2.5
+        value: -14.5997
+        inSlope: -0.6216998
+        outSlope: -0.6216998
+        tangentMode: 10
+      - time: 5
+        value: -31.492699
+        inSlope: 5.691483
+        outSlope: 5.691483
+        tangentMode: 10
+      - time: 5.4166665
+        value: -23.9343
+        inSlope: 0.5337696
+        outSlope: 0.5337696
+        tangentMode: 10
+      - time: 5.8333335
+        value: -31.0479
+        inSlope: -7.9216127
+        outSlope: -7.9216127
+        tangentMode: 10
+      - time: 8
+        value: -28.3842
+        inSlope: 1.2294002
+        outSlope: 1.2294002
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: PLASMA BLADE
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 81.2753
+        inSlope: 3.6495209
+        outSlope: 3.6495209
+        tangentMode: 10
+      - time: 2.5
+        value: 90.3991
+        inSlope: -1.1123002
+        outSlope: -1.1123002
+        tangentMode: 10
+      - time: 5
+        value: 75.7138
+        inSlope: 12.6534605
+        outSlope: 12.6534605
+        tangentMode: 10
+      - time: 5.4166665
+        value: 88.705894
+        inSlope: 1.0128193
+        outSlope: 1.0128193
+        tangentMode: 10
+      - time: 5.8333335
+        value: 76.5578
+        inSlope: -13.489048
+        outSlope: -13.489048
+        tangentMode: 10
+      - time: 8
+        value: 81.2753
+        inSlope: 2.1773074
+        outSlope: 2.1773074
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: PLASMA BLADE
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.29
+        inSlope: 0.004000008
+        outSlope: 0.004000008
+        tangentMode: 10
+      - time: 2.5
+        value: 0.3
+        inSlope: -0.001999998
+        outSlope: -0.001999998
+        tangentMode: 10
+      - time: 5
+        value: 0.28
+        inSlope: -0.002333337
+        outSlope: -0.002333337
+        tangentMode: 10
+      - time: 8
+        value: 0.29
+        inSlope: 0.0033333302
+        outSlope: 0.0033333302
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: PLASMA GRENADE
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.119
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5
+        value: -0.119
+        inSlope: 0.00080000015
+        outSlope: 0.00080000015
+        tangentMode: 10
+      - time: 5
+        value: -0.115
+        inSlope: 0.00013333338
+        outSlope: 0.00013333338
+        tangentMode: 10
+      - time: 8
+        value: -0.119
+        inSlope: -0.0013333336
+        outSlope: -0.0013333336
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: PLASMA GRENADE
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.719
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5
+        value: 0.719
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 5
+        value: 0.719
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 8
+        value: 0.719
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: PLASMA GRENADE
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.2900083
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5
+        value: 0.2900083
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 8
+        value: 0.2900083
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: PLASMA THROW
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.11899948
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5
+        value: -0.11899948
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 8
+        value: -0.11899948
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: PLASMA THROW
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.71899426
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5
+        value: 0.71899426
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 8
+        value: 0.71899426
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: PLASMA THROW
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 8
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: PLASMA THROW
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -90
+        inSlope: 0.4
+        outSlope: 0.4
+        tangentMode: 10
+      - time: 2.5
+        value: -89
+        inSlope: -0.2
+        outSlope: -0.2
+        tangentMode: 10
+      - time: 5
+        value: -91
+        inSlope: -0.23333333
+        outSlope: -0.23333333
+        tangentMode: 10
+      - time: 8
+        value: -90
+        inSlope: 0.33333334
+        outSlope: 0.33333334
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: PLASMA THROW
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 90
+        inSlope: 0.4
+        outSlope: 0.4
+        tangentMode: 10
+      - time: 2.5
+        value: 91
+        inSlope: -0.2
+        outSlope: -0.2
+        tangentMode: 10
+      - time: 5
+        value: 89
+        inSlope: -0.23333333
+        outSlope: -0.23333333
+        tangentMode: 10
+      - time: 8
+        value: 90
+        inSlope: 0.33333334
+        outSlope: 0.33333334
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: PLASMA THROW
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.29
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 17
+      - time: 1.25
+        value: 0.29
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 31
+      - time: 2.5
+        value: 0.29
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 15
+      - time: 5
+        value: 0.29
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 11
+      - time: 8
+        value: 0.29
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: PLASMA ION
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.145
+        inSlope: 0
+        outSlope: -0.0016000032
+        tangentMode: 17
+      - time: 1.25
+        value: -0.147
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 31
+      - time: 2.5
+        value: -0.143
+        inSlope: 0.0013999998
+        outSlope: 0.0013999998
+        tangentMode: 15
+      - time: 5
+        value: -0.144
+        inSlope: -0.00036666443
+        outSlope: -0.00036666443
+        tangentMode: 11
+      - time: 8
+        value: -0.145
+        inSlope: -0.000333334
+        outSlope: -0.000333334
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: PLASMA ION
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.48
+        inSlope: 0.0062500015
+        outSlope: -0
+        tangentMode: 17
+      - time: 1.25
+        value: 0.48
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 31
+      - time: 2.5
+        value: 0.48
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 15
+      - time: 5
+        value: 0.48
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 11
+      - time: 8
+        value: 0.48
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: PLASMA ION
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0.16503999
+        outSlope: 0.16503999
+        tangentMode: 17
+      - time: 1.25
+        value: 0.20629999
+        inSlope: 0.11999999
+        outSlope: 0.07495999
+        tangentMode: 17
+      - time: 2.5
+        value: 0.29999998
+        inSlope: -0.08251999
+        outSlope: -0.08251999
+        tangentMode: 10
+      - time: 5
+        value: -0.29999998
+        inSlope: -0.06999999
+        outSlope: -0.06999999
+        tangentMode: 10
+      - time: 8
+        value: 0
+        inSlope: 0.099999994
+        outSlope: 0.099999994
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: PLASMA ION
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0.05
+        outSlope: 0.45
+        tangentMode: 17
+      - time: 1.25
+        value: 0.5625
+        inSlope: 0
+        outSlope: -0.05
+        tangentMode: 17
+      - time: 2.5
+        value: 0.5
+        inSlope: -0.22500001
+        outSlope: -0.22500001
+        tangentMode: 10
+      - time: 5
+        value: -0.5
+        inSlope: -0.11666667
+        outSlope: -0.11666667
+        tangentMode: 10
+      - time: 8
+        value: 0
+        inSlope: 0.16666667
+        outSlope: 0.16666667
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: PLASMA ION
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 17
+      - time: 1.25
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 17
+      - time: 2.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 8
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: PLASMA ION
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: PLASMA PISTOL
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: PLASMA PISTOL
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: PLASMA PISTOL
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: PLASMA RIFLE
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: PLASMA RIFLE
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: PLASMA RIFLE
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: PLASMA SNIPER
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: PLASMA SNIPER
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: PLASMA SNIPER
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: PLASMA ION
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: PLASMA ION
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: PLASMA ION
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: PLASMA BEAM
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: PLASMA BEAM
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: PLASMA BEAM
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: PLASMA THROW
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: PLASMA THROW
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: PLASMA THROW
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: PLASMA BLASTER
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: PLASMA BLASTER
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: PLASMA BLASTER
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: PLASMA BLADE
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: PLASMA BLADE
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: PLASMA BLADE
+    classID: 4
+    script: {fileID: 0}
+  m_HasGenericRootTransform: 1
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []

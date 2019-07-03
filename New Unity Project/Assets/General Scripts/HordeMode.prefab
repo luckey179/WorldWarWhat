@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &135172
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 484962}
+  - 114: {fileID: 11442158}
+  - 114: {fileID: 114000013458169050}
+  m_Layer: 0
+  m_Name: HordeMode
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &484962
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 135172}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 344.1608, y: 152.35696, z: 536.375}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11442158
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 135172}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c11800d2737ae422dadb1d1c99b60d73, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gam: {fileID: 0}
+  obj: {fileID: 0}
+  gamm: {fileID: 0}
+  objj: {fileID: 0}
+  furs: {fileID: 0}
+  gamerr: {fileID: 0}
+  bus: {fileID: 0}
+  toad1: {fileID: 0}
+  toad2: {fileID: 0}
+  toad3: {fileID: 0}
+  toad4: {fileID: 0}
+  toad5: {fileID: 0}
+  text: {fileID: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 135172}
+  m_IsPrefabParent: 1
+--- !u!114 &114000013458169050
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 135172}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 523d2a488830447c4af30485fb64d1cc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentTimeOfDay: {fileID: 11412744, guid: 598902d1bc91141ab9d146e62871f171, type: 2}
+  conttime: 15

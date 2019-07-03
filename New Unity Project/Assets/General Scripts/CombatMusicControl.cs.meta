@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: cda2a179ce4714bdebbec7861a61764e
+timeCreated: 1459213909
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - outOfCombat: {instanceID: 0}
+  - inCombat: {instanceID: 0}
+  - inCloseCombat: {instanceID: 0}
+  - inMidCombat: {instanceID: 0}
+  - stingSource: {instanceID: 0}
+  - stingers2Source: {instanceID: 0}
+  - stingers3Source: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
